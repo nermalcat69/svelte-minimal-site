@@ -1,0 +1,107 @@
+body {
+  padding-top: 5rem;
+  padding-left: 10rem;
+  padding-right: 10rem;
+  padding-bottom: 5rem;
+  font-family: 'Cantata One', serif;
+  font-weight: 800;
+}
+
+@media only screen and (max-width: 320px) {
+  body {
+    margin-left: -2rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  body {
+  padding: 2rem;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  body {
+  padding: 3rem;
+  }
+}
+
+
+
+p {
+  color: #314372; 
+  font-size: 1.1rem;
+  font-family: 'Nunito', sans-serif;
+}
+
+.arjun-aditya {
+  color: #B2AA00;
+  font-size: 5rem;
+  border-left: 1.2rem solid #BD00FF;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem; 
+}
+
+.un {
+  color: #BD00FF;
+  margin-left: -2rem;
+}
+@media only screen and (max-width: 320px) {
+  .un {
+  margin-left: -0.7rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .un {
+  margin-left: -1rem;
+  }
+}
+
+.aditya {
+  color: #314372;
+}
+
+@media only screen and (max-width: 320px) {
+  .arjun-aditya {
+  font-size: 2rem;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .arjun-aditya {
+  font-size: 3rem;
+  }
+}
+
+
+
+
+.contact-socials {
+  display: column;
+  margin-top: 1.3rem;
+  margin-left: 2rem;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  padding-left: 0.7rem;
+  font-size: 1rem;
+  border-left: 0.8rem solid #14F9B4;
+}
+
+
+.experience {
+  font-family: 'Nunito', sans-serif;
+  font-size: 3rem;
+  margin-top: 4rem;
+}
+
+.experi {
+  padding-left: 0.7rem;
+  color: #314372;
+  border-left: 0.8rem solid #14F9B4;
+}
+
+.ence {
+  color: #B2AA00;
+  margin-left: -0.85rem;
+}
