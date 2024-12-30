@@ -3,9 +3,9 @@
 @tailwind utilities;
 
 p {
-    @apply text-neutral-600 pb-6 leading-7;
+	@apply text-neutral-600 pb-6 leading-7;
 }
 
 a {
-    @apply text-neutral-700 underline;
+	@apply text-neutral-700 underline;
 }

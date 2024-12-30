@@ -1,11 +1,8 @@
 import { sveltekit } from '@sveltejs/kit/vite';
-import { defineConfig } from 'vite';
 
-export default defineConfig({
-	plugins: [sveltekit()],
-	server: {
-		hmr: {
-			port: 3000
-		}
-	}
-});
+/** @type {import('vite').UserConfig} */
+const config = {
+	plugins: [sveltekit()]
+};
+
+export default config;
