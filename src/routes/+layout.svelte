@@ -8,7 +8,7 @@
 	<meta name="title" content="Sahil Lavingia" />
 	<meta
 		name="description"
-		content="I'm a 18 year old Web Developer and I'm currently learning SvelteKit"
+		content="I'm Sahil Lavingia Founder and CEO of Gumroad."
 	/>
 
 	<!-- Open Graph / Facebook -->
@@ -17,7 +17,7 @@
 	<meta property="og:title" content="Sahil Lavingia" />
 	<meta
 		property="og:description"
-		content="I'm a 18 year old Web Developer and I'm currently learning SvelteKit"
+		content="I'm Sahil Lavingia Founder and CEO of Gumroad."
 	/>
 	<meta property="og:image" content="https://sahil.zerops.xyz/og.png" />
 
@@ -27,7 +27,7 @@
 	<meta property="twitter:title" content="Sahil Lavingia" />
 	<meta
 		property="twitter:description"
-		content="I'm a 18 year old Web Developer and I'm currently learning SvelteKit"
+		content="I'm Sahil Lavingia Founder and CEO of Gumroad."
 	/>
 	<meta property="twitter:image" content="https://sahil.zerops.xyz/og.png" />
 </svelte:head>
